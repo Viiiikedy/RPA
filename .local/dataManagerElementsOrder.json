@@ -1,0 +1,58 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "收件人邮箱&Sequence_9",
+        "鉴权码&Sequence_9",
+        "发件人邮箱&Sequence_9",
+        "SendMailFileList&Sequence_3",
+        "CompanyName&Sequence_6",
+        "流动比率&Sequence_7",
+        "流动负债&Sequence_7",
+        "流动资产合计&Sequence_7",
+        "datatable_合并利润表&Sequence_7",
+        "合并利润表&Sequence_7",
+        "datatable_合并资产负债&Sequence_7",
+        "合并资产负债&Sequence_7",
+        "PDF_content&Sequence_7",
+        "saveFileFullPath&Sequence_6",
+        "CompangInfo&Sequence_3",
+        "ReportURL&Sequence_3",
+        "CompanyCode&Sequence_6"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "查询年报.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "title&Sequence_3",
+        "ExtractDataTable&Sequence_3",
+        "edgeBrowser&Sequence_3",
+        "ReportURL&Sequence_3",
+        "ExtractDataTableTemp&Sequence_4",
+        "result&Sequence_5",
+        "announcementTime&Sequence_5",
+        "announcementId&Sequence_5"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "saveFileFullPath",
+        "CompanyCode"
+      ],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    }
+  ]
+}
